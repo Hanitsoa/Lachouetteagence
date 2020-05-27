@@ -7,7 +7,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 html {
-    font-family: sans-serif;
+    -family: sans-serif;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
@@ -2068,7 +2068,6 @@ pre code {
     padding-right: 15px;
     padding-left: 15px
 }
-
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
