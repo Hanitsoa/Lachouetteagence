@@ -270,7 +270,15 @@ a:hover {
 .voffset-lg {
     margin-top: 80px;
 }
-
+p span
+{
+    font-size: 1.7em;
+    font-style: italic;
+}
+span
+{
+    font-size: 1.5em;
+}
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -437,6 +445,7 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 1.5em;
 }
 
 .mg-lg {
@@ -637,7 +646,12 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
+.col-sm-4 h2,
+.mg-md h2
+{
+    font-size: 1.1em;
+    font-weight: bold;
+}
 h1,
 h2,
 h3,
