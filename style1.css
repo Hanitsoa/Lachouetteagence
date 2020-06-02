@@ -851,6 +851,13 @@ iframe
     {
         width: 100%;
     }
+ul
+{
+    list-style: none;
+    text-align: center;
+    padding-left: 0;
+    margin-left: 0;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -863,7 +870,7 @@ iframe
         padding-left: 0;
         padding-right: 0;
     }
-    
+
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
@@ -920,6 +927,10 @@ iframe
     .page-container {
         overflow-x: hidden;
         position: relative;
+    }
+    ul
+    {
+        font-size: 1em;
     }
     h1,
     h2,
