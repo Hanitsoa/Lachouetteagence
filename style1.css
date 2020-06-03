@@ -272,16 +272,12 @@ a:hover {
 }
 blockquote p
 {
-    font-size: 1.4em;
+    font-size: 1.2em;
     font-style: italic;
 }
 .col-sm-12.text-center p
 {
-    font-size: 1.1em; 
-}
-.description
-{
-    font-size: 1.5em;
+    font-size: 1.5em; 
 }
 .row-no-gutters {
     margin-right: 0;
