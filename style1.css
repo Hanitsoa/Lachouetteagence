@@ -270,10 +270,18 @@ a:hover {
 .voffset-lg {
     margin-top: 80px;
 }
+blockquote
+{
+    border-left: 0;
+}
 blockquote p
 {
     font-size: 1.2em;
     font-style: italic;
+}
+blockquote footer:before
+{
+ content:"";
 }
 .col-sm-12.text-center p
 {
@@ -841,7 +849,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 iframe 
     {
