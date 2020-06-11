@@ -286,6 +286,7 @@ blockquote footer:before
 .col-sm-12.text-center p
 {
     font-size: 1.5em; 
+    background-color: #FFFFFF;
 }
 .row-no-gutters {
     margin-right: 0;
