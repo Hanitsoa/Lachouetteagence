@@ -279,6 +279,10 @@ blockquote p
     font-size: 1.2em;
     font-style: italic;
 }
+blockquote footer
+{
+    color: #757575;
+}
 blockquote footer:before
 {
  content:"";
@@ -286,7 +290,10 @@ blockquote footer:before
 .col-sm-12.text-center p
 {
     font-size: 1.5em; 
-    background-color: #FFFFFF;
+}
+.col-sm-12 p
+{
+background-color: #FFFFFF;
 }
 .row-no-gutters {
     margin-right: 0;
