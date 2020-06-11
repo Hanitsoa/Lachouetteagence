@@ -291,9 +291,9 @@ blockquote footer:before
 {
     font-size: 1.5em; 
 }
-/*.col-sm-12 p
+.col-sm-12 p
 {
-background-color: #FFFFFF;*/
+background-color: transparent;
 }
 .row-no-gutters {
     margin-right: 0;
@@ -708,9 +708,9 @@ a {
     margin: auto auto auto auto;
 }
 
-p {
+/*p {
     font-size: 11px;
-}
+}*/
 
 .tight-width-whitespace {
     max-width: 600px;
